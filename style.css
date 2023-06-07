@@ -1,0 +1,25 @@
+*{
+    font-family: 'Trebuchet MS', 'Prompt', sans-serif;
+}
+body{
+    background: linear-gradient(90deg, #5e548e 0%,  #e0b1cb 50%, #5e548e 100%);
+    font-size: 110%;
+}
+h1{
+    color:#edf2f4;
+    text-shadow: 0px 0px 10px #c8b6ff;
+}
+.navbar a{
+    color:#2b2d42;
+    text-shadow: 0px 0px 3px #f15bb5;
+}
+section img{
+    border-radius:25%;
+    object-fit:cover;
+}
+section h2{
+    text-shadow: 0px 0px 10px #5e548e;
+}
+section p{
+    text-shadow: 3px 3px 5px #5e548e;
+}
